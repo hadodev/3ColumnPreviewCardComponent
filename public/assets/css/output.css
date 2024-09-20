@@ -773,12 +773,6 @@ video {
   }
 }
 
-@media (min-width: 640px) {
-  .sm\:m-10 {
-    margin: 2.5rem;
-  }
-}
-
 @media (min-width: 768px) {
   .md\:m-0 {
     margin: 0px;
