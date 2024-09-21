@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repository solution URL here](https://github.com/hadodev/3ColumnPreviewCardComponent)
-- Live Site URL: [Live site URL here](https://hadodev-frontendmentor-3colcard.netlify.app)
+- Live Site URL: [Live site URL here](https://hadodev-frontendmentor-3colcard.netlify.app/index.html)
 
 ## My process
 
